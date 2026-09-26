@@ -14,10 +14,14 @@
 
 - <https://github.com/obra/superpowers>
 
-  > 面向编码代理的技能框架与软件开发方法论，内置规划、TDD、系统化调试、代码审查等可组合技能。
+  > 面向软件开发过程的技能框架与方法论，提供从需求澄清、实现规划到 TDD 编码、子代理协作与代码审查等环节的可组合技能。
 
 - <https://github.com/multica-ai/andrej-karpathy-skills>
+
+  > 源自 Andrej Karpathy 对 LLM 编码问题观察的行为准则，围绕编码前思考、简洁优先、精准修改、目标驱动执行四个方面，约束和引导编码行为。
 
 **设计类：**
 
 - <https://github.com/hamen/material-3-skill>
+
+  > Material Design 3 实现参考，覆盖组件、设计令牌、主题生成、响应式布局与合规审计，以 Jetpack Compose 为主，兼顾 Flutter 与 Web。
