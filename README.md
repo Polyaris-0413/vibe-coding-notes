@@ -12,9 +12,9 @@
 
 **编码类：**
 
-- <https://github.com/obra/superpowers>
-- <https://github.com/multica-ai/andrej-karpathy-skills>
+- <https://github.com/obra/superpowers>：简短介绍。
+- <https://github.com/multica-ai/andrej-karpathy-skills>：简短介绍。
 
 **设计类：**
 
-- <https://github.com/hamen/material-3-skill>
+- <https://github.com/hamen/material-3-skill>：简短介绍。
