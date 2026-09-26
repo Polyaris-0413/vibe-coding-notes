@@ -9,3 +9,12 @@
 - 仓库：<https://github.com/earendil-works/pi>
 
 ## Skills
+
+**编码类：**
+
+- <https://github.com/obra/superpowers>
+- <https://github.com/multica-ai/andrej-karpathy-skills>
+
+**设计类：**
+
+- <https://github.com/hamen/material-3-skill>
