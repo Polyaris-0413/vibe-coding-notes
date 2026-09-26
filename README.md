@@ -13,7 +13,9 @@
 **编码类：**
 
 - <https://github.com/obra/superpowers>
+
   > 面向编码代理的技能框架与软件开发方法论，内置规划、TDD、系统化调试、代码审查等可组合技能。
+
 - <https://github.com/multica-ai/andrej-karpathy-skills>
 
 **设计类：**
