@@ -8,6 +8,12 @@
 - 官网：<https://pi.dev/>
 - 仓库：<https://github.com/earendil-works/pi>
 
+目前我使用的模型是 `deepseek-flash`。
+
+- 开放平台：<https://platform.deepseek.com/usage>
+- 接口文档：<https://api-docs.deepseek.com/zh-cn/>
+
+
 ## Skills
 
 **编码类：**
@@ -27,7 +33,7 @@
   > Material Design 3 实现参考，覆盖组件、设计令牌、主题生成、响应式布局与合规审计，以 Jetpack Compose 为主，兼顾 Flutter 与 Web。
 
 ## AGENTS.md
-  > 该提示词包含许多个性化条目，且需搭配上述技能使用，并不适合所有人。
+> 该提示词包含许多个性化条目，需搭配上述技能使用，并不适合所有人。
 ```text
 # 全局开发规范
 
@@ -45,7 +51,7 @@
 
 ## 1. 技能调用
 
-- - 任务开始时，应先调用 `using-superpowers`，以确定所需技能。
+- 任务开始时，应先调用 `using-superpowers`，以确定所需技能。
 
 ## 2. 减少冗余
 
