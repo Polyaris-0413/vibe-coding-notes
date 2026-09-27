@@ -8,11 +8,6 @@
 - 官网：<https://pi.dev/>
 - 仓库：<https://github.com/earendil-works/pi>
 
-### Extension
-- <https://pi.dev/packages/pi-web-access>
-
-  > 面向 Pi 编程代理的网页搜索、URL 抓取、GitHub 仓库克隆、PDF 提取、YouTube 视频理解以及本地视频分析功能。
-
 ## 模型
 目前我使用的模型是 `deepseek-flash`。
 
