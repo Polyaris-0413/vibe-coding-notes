@@ -8,6 +8,7 @@
 - 官网：<https://pi.dev/>
 - 仓库：<https://github.com/earendil-works/pi>
 
+## 模型
 目前我使用的模型是 `deepseek-flash`。
 
 - 开放平台：<https://platform.deepseek.com/usage>
