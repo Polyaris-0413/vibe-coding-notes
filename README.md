@@ -1,5 +1,6 @@
 # Vibe Coding Notes
 该项目记录了我当前的 Vibe Coding 配置。  
+
 你可以将其视作教程，但我并不具有权威性，因此下文内容仅供参考。
 
 ## Harness
